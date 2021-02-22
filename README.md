@@ -1,4 +1,4 @@
-# 1. Linear Discriminant Analysis (LDA)
+# Linear Discriminant Analysis (LDA)
 
 LDA is commonly used as a dimensionality reduction technique.
 It's used in the pre-processing step for pattern classification in machine learning algorithms.
